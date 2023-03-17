@@ -1,7 +1,7 @@
-### Olá! Eu sou o Bruno Garbero
+### Olá! Eu sou o Bruno 👋🏻
 
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=bgarbero&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgarbero&layout=compact)](https://github.com/bgarbero/github-readme-stats)
+<!--![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=bgarbero&show_icons=true&theme=dracula)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgarbero&layout=compact)](https://github.com/bgarbero/github-readme-stats) -->
 
 ### Tecnologias que estou aprendendo no momento
 
