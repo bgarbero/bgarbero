@@ -3,6 +3,11 @@
 <!--![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=bgarbero&show_icons=true&theme=dracula)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgarbero&layout=compact)](https://github.com/bgarbero/github-readme-stats) -->
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bgarbero&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="DGS1337 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgarbero&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
 ### Tecnologias que estou aprendendo no momento
 
 <div style="display: inline_block"><br/>
