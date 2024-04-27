@@ -14,6 +14,9 @@
   <a href="mailto:bruno_garbero@hotmail.com">
     <code><img alt="e-mail" src="https://img.shields.io/badge/bruno_garbero@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></code>
   </a>
+  <a href="https://www.instagram.com/bgarbero/">
+    <code><img alt="INSTAGRAM" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></code>
+  </a>
 </div>
 
 ## Tecnologias que estou aprendendo no momento
