@@ -1,36 +1,80 @@
-# Olá! Eu sou Bruno Garbero
+# Olá! Eu sou o Bruno Garbero 👋
 
-## Sobre mim
-- **Formado em Administração de Empresas** com uma sólida compreensão de negócios.
-- **Cursando Engenharia de Software**, com foco em desenvolvimento e arquitetura de sistemas.
-- Sou uma pessoa **disciplinada**, **persistente** e com forte capacidade de resolver problemas.
-- Valorizo a **satisfação do usuário** e estou sempre focado em **entregar resultados** de alta qualidade.
+Sou **Engenheiro de Software em formação**, com foco em **Java e Spring Boot**, e experiência prévia em **Administração**, o que me permite unir **visão de negócio** à construção de **sistemas robustos, escaláveis e bem estruturados**.
 
-## Tecnologias que estou aprendendo
-Atualmente estou expandindo meus conhecimentos em:
-<div style="display: inline_block"></br>
-	<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="100" height="100" alt="Java"/>
-	<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="100" height="100" alt="Spring"/>
-	<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="100" height="100" alt="PostgreSQL"/>
+Atualmente, estou direcionando minha carreira para o desenvolvimento backend, com forte interesse em **arquitetura de software, segurança e sistemas SaaS**.
+
+---
+
+## 🚀 Momento Atual
+
+- 🎓 **Graduando em Engenharia de Software** — conclusão prevista para **Dez/2026**
+- 🛠️ **Projeto SaaS em desenvolvimento:**  
+  **Sistema de gestão de alunos para academias de artes marciais**, com foco em:
+  - Organização de alunos e turmas  
+  - Controle administrativo  
+  - Base sólida para escalar como produto SaaS  
+
+  **Stack:** Java • Spring Boot • PostgreSQL • API REST
+
+- 📚 **Aprofundando conhecimentos em:**
+  - Arquitetura Limpa e boas práticas
+  - Spring Security e autenticação/autorização
+  - Integração backend com frontend em React
+  - Conceitos essenciais para aplicações SaaS (segurança, escalabilidade e manutenção)
+
+---
+
+## 🧠 Como eu penso software
+
+- Valorizo **código limpo**, legível e fácil de manter  
+- Prefiro **soluções simples e bem arquitetadas** a complexidade desnecessária  
+- Busco entender o **problema de negócio** antes de escrever código  
+- Acredito que bons sistemas são **testáveis, observáveis e preparados para crescer**
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 🔹 Stack Principal
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-## Estatísticas do GitHub
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bgarbero&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="bgarbero github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgarbero&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="bgarbero top langs" />
+### 🔹 Explorando e aplicando em projetos
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
-## Contatos
-Vamos nos conectar! Você pode me encontrar nas seguintes plataformas:
+---
+
+## 📊 Estatísticas do GitHub
+
+*(Caso as imagens não carreguem, trata-se de uma instabilidade temporária do Vercel. Os links estão atualizados.)*
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bgarbero&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgarbero&layout=compact&theme=tokyonight&langs_count=6" />
+</div>
+
+---
+
+## 📫 Vamos conversar?
+
+Tenho interesse em oportunidades como **Desenvolvedor Java Júnior / Backend**, além de trocar ideias sobre:
+- Java e Spring Boot
+- Arquitetura de software
+- Desenvolvimento de sistemas SaaS
+
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/bruno-garbero/" target="_blank">
-    <code><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></code>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bruno_garbero@hotmail.com">
-    <code><img alt="E-mail" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></code>
-  </a>
-  <a href="https://www.instagram.com/bgarbero/" target="_blank">
-    <code><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></code>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
