@@ -1,80 +1,78 @@
-# Olá! Eu sou o Bruno Garbero 👋
+<div align="center">
 
-Sou **Engenheiro de Software em formação**, com foco em **Java e Spring Boot**, e experiência prévia em **Administração**, o que me permite unir **visão de negócio** à construção de **sistemas robustos, escaláveis e bem estruturados**.
+# Bruno Garbero
 
-Atualmente, estou direcionando minha carreira para o desenvolvimento backend, com forte interesse em **arquitetura de software, segurança e sistemas SaaS**.
+**Engenheiro de Software em formação · Backend Java & Spring Boot**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-garbero/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno_garbero@hotmail.com)
 
-## 🚀 Momento Atual
-
-- 🎓 **Graduando em Engenharia de Software** — conclusão prevista para **Dez/2026**
-- 🛠️ **Projeto SaaS em desenvolvimento:**  
-  **Sistema de gestão de alunos para academias de artes marciais**, com foco em:
-  - Organização de alunos e turmas  
-  - Controle administrativo  
-  - Base sólida para escalar como produto SaaS  
-
-  **Stack:** Java • Spring Boot • PostgreSQL • API REST
-
-- 📚 **Aprofundando conhecimentos em:**
-  - Arquitetura Limpa e boas práticas
-  - Spring Security e autenticação/autorização
-  - Integração backend com frontend em React
-  - Conceitos essenciais para aplicações SaaS (segurança, escalabilidade e manutenção)
-
----
-
-## 🧠 Como eu penso software
-
-- Valorizo **código limpo**, legível e fácil de manter  
-- Prefiro **soluções simples e bem arquitetadas** a complexidade desnecessária  
-- Busco entender o **problema de negócio** antes de escrever código  
-- Acredito que bons sistemas são **testáveis, observáveis e preparados para crescer**
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-### 🔹 Stack Principal
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
-
-### 🔹 Explorando e aplicando em projetos
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Sobre mim
 
-*(Caso as imagens não carreguem, trata-se de uma instabilidade temporária do Vercel. Os links estão atualizados.)*
+Engenheiro de Software em formação (conclusão **Dez/2026**), com foco em **Java, Spring Boot e arquitetura backend**. Background em Administração que me permite pensar em código como solução de negócio — não apenas como entrega técnica.
+
+Busco oportunidades como **Desenvolvedor Java Júnior / Backend** onde possa contribuir com sistemas bem estruturados e continuar crescendo com times experientes.
+
+---
+
+## 🛠️ Projeto em destaque
+
+### [BemBolado — Sistema de Gestão para Academias de Artes Marciais](LINK_DO_REPO)
+
+Sistema SaaS voltado para academias de Boxing e Muay Thai, com gestão de alunos, turmas e controle administrativo.
+
+**Stack:** Java · Spring Boot · Spring Security · PostgreSQL · REST API
+
+> Projeto focado em arquitetura limpa, segurança e escalabilidade — base para evolução como produto SaaS multi-tenant.
+
+---
+
+## 🧠 Princípios de desenvolvimento
+
+- **Clareza antes de cleverness** — código legível é código sustentável
+- **Entender o problema de negócio** antes de escrever a primeira linha
+- **Simples e bem arquitetado** supera complexo e frágil
+- **Sistemas testáveis, observáveis e preparados para crescer**
+
+---
+
+## 💻 Tecnologias
+
+**Core**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Aplicando em projetos**
+
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bgarbero&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgarbero&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=bgarbero&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bgarbero&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
 
 ## 📫 Vamos conversar?
 
-Tenho interesse em oportunidades como **Desenvolvedor Java Júnior / Backend**, além de trocar ideias sobre:
-- Java e Spring Boot
-- Arquitetura de software
-- Desenvolvimento de sistemas SaaS
+Aberto a oportunidades em **Java Backend / Desenvolvimento de Software**, trocar ideias sobre arquitetura, Spring ou SaaS — ou simplesmente conectar.
 
-<div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/bruno-garbero/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bruno_garbero@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </div>
