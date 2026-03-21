@@ -1,7 +1,6 @@
 <div align="center">
 
 # Bruno Garbero
-
 **Engenheiro de Software em formação · Backend Java & Spring Boot**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-garbero/)
@@ -16,18 +15,6 @@
 Engenheiro de Software em formação (conclusão **Dez/2026**), com foco em **Java, Spring Boot e arquitetura backend**. Background em Administração que me permite pensar em código como solução de negócio — não apenas como entrega técnica.
 
 Busco oportunidades como **Desenvolvedor Java Júnior / Backend** onde possa contribuir com sistemas bem estruturados e continuar crescendo com times experientes.
-
----
-
-## 🛠️ Projeto em destaque
-
-### [BemBolado — Sistema de Gestão para Academias de Artes Marciais](LINK_DO_REPO)
-
-Sistema SaaS voltado para academias de Boxing e Muay Thai, com gestão de alunos, turmas e controle administrativo.
-
-**Stack:** Java · Spring Boot · Spring Security · PostgreSQL · REST API
-
-> Projeto focado em arquitetura limpa, segurança e escalabilidade — base para evolução como produto SaaS multi-tenant.
 
 ---
 
@@ -51,7 +38,7 @@ Sistema SaaS voltado para academias de Boxing e Muay Thai, com gestão de alunos
 **Aplicando em projetos**
 
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Ferramentas**
