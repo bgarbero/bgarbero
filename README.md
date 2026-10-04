@@ -1,63 +1,53 @@
-<div align="center">
+<h1 align="center">Bruno Garbero</h1>
 
-# Bruno Garbero
-**Engenheiro de Software em formação · Backend Java & Spring Boot**
+<p align="center">
+  <b>Fullstack Developer Jr · Java · Spring Boot · React · TypeScript · AWS</b>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-garbero/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno_garbero@hotmail.com)
-
-</div>
-
----
-
-## Sobre mim
-
-Engenheiro de Software em formação (conclusão **Dez/2026**), com foco em **Java, Spring Boot e arquitetura backend**. Background em Administração que me permite pensar em código como solução de negócio — não apenas como entrega técnica.
-
-Busco oportunidades como **Desenvolvedor Java Júnior / Backend** onde possa contribuir com sistemas bem estruturados e continuar crescendo com times experientes.
+<p align="center">
+  <a href="https://www.linkedin.com/in/bruno-garbero/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:bsgarbero@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-## 🧠 Princípios de desenvolvimento
+## 👋 Sobre mim
 
-- **Clareza antes de cleverness** — código legível é código sustentável
+Desenvolvedor fullstack com base em **Java e Spring Boot**, atuando com **React e TypeScript** em microsserviços na **Embraer** (via SONDA).
+
+Venho de mais de 3 anos no suporte técnico em TI, por isso entendo como os sistemas se comportam em produção e como cada incidente afeta o negócio.
+
+Concluindo Engenharia de Software (UNIFAA, dez/2026). Aqui no GitHub ficam meus estudos e projetos, com foco em backend Java.
+
+## 🧠 Como eu trabalho
+
+- **Clareza antes de esperteza:** código legível é código sustentável
 - **Entender o problema de negócio** antes de escrever a primeira linha
-- **Simples e bem arquitetado** supera complexo e frágil
-- **Sistemas testáveis, observáveis e preparados para crescer**
+- **Sistemas testáveis e observáveis**, preparados para rodar em produção
 
----
+## 💻 Stack
 
-## 💻 Tecnologias
-
-### Core 
+**Backend**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-### Aplicando em projetos
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+**Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Dados**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Cloud, DevOps e Testes**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Ferramentas
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
----
 
-## 📊 GitHub Stats
+## 📫 Contato
 
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=bgarbero&theme=tokyonight&hide_border=false" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bgarbero&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
-## 📫 Vamos conversar?
-
-Aberto a oportunidades em **Java Backend / Desenvolvimento de Software**, trocar ideias sobre arquitetura, Spring ou SaaS — ou simplesmente conectar.
-
-</div>
+Gosto de trocar ideias sobre Java, Spring, arquitetura backend e carreira em tecnologia. Fique à vontade para me chamar no LinkedIn.
